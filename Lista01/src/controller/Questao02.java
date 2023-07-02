@@ -11,7 +11,7 @@ public class Questao02 {
 		int terceiron = Teclado.lerInt("Digite o terceiro numero: ");
 		int quarton = Teclado.lerInt("Digite o quarto numero: ");
 
-		int multiplicacao = primeiron * segundon * terceiron * quarton;
+		int multiplicacao = ((primeiron * segundon) * terceiron) * quarton;
 		int divisao = primeiron / segundon / terceiron / quarton;
 		int adicao = primeiron + segundon + terceiron + quarton;
 		int subtracao = primeiron - segundon - terceiron - quarton;
