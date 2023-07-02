@@ -2,7 +2,7 @@ package controller;
 
 import util.Teclado;
 
-public class Questao01 {
+public class Questao01NomeSexo {
 
 	public static void main(String[] args) {
 		String nome = Teclado.lerTexto("Digite seu nome:");
