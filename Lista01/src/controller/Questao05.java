@@ -6,12 +6,12 @@ public class Questao05 {
 
 	public static void main(String[] args) {
 		
-		double antigosal = Teclado.lerDouble("Digite seu salário para cálculo do reajuste: R$");
+		double antigoSal = Teclado.lerDouble("Digite seu salário para cálculo do reajuste: R$");
 		
-		double atualsal = antigosal * 1.15;
-		double totreajuste = atualsal - antigosal;
+		double atualSal = antigoSal * 1.15;
+		double totReajuste = atualSal - antigoSal;
 		
-		System.out.println("Seu salário com o reajuste é R$" + atualsal + " você teve R$" + totreajuste + " de reajuste");
+		System.out.println("Seu salário com o reajuste é R$" + atualSal + " você teve R$" + totReajuste + " de reajuste");
 		
 	}
 

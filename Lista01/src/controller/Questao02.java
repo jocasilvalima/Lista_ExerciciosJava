@@ -6,16 +6,16 @@ public class Questao02 {
 
 	public static void main(String[] args) {
 
-		int primeiron = Teclado.lerInt("Digite o primeiro numero: ");
-		int segundon = Teclado.lerInt("Digite o segundo numero: ");
-		int terceiron = Teclado.lerInt("Digite o terceiro numero: ");
-		int quarton = Teclado.lerInt("Digite o quarto numero: ");
+		int primeiroN = Teclado.lerInt("Digite o primeiro numero: ");
+		int segundoN = Teclado.lerInt("Digite o segundo numero: ");
+		int terceiroN = Teclado.lerInt("Digite o terceiro numero: ");
+		int quartoN = Teclado.lerInt("Digite o quarto numero: ");
 
-		int multiplicacao = ((primeiron * segundon) * terceiron) * quarton;
-		int divisao = primeiron / segundon / terceiron / quarton;
-		int adicao = primeiron + segundon + terceiron + quarton;
-		int subtracao = primeiron - segundon - terceiron - quarton;
-		int restodadivisao = primeiron % segundon % terceiron % quarton;
+		int multiplicacao = ((primeiroN * segundoN) * terceiroN) * quartoN;
+		int divisao = primeiroN / segundoN / terceiroN / quartoN;
+		int adicao = primeiroN + segundoN + terceiroN + quartoN;
+		int subtracao = primeiroN - segundoN - terceiroN - quartoN;
+		int restodadivisao = primeiroN % segundoN % terceiroN % quartoN;
 
 		System.out.println("A multiplicação é: " + multiplicacao);
 		System.out.println("A divisão é: " + divisao);
