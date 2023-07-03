@@ -2,7 +2,7 @@ package controller;
 
 import util.Teclado;
 
-public class Questao05 {
+public class Questao05Reajuste {
 
 	public static void main(String[] args) {
 		

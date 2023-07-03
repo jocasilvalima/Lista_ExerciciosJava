@@ -2,7 +2,7 @@ package controller;
 
 import util.Teclado;
 
-public class Questao03 {
+public class Questao03ConverterDolarReal {
 
 	public static void main(String[] args) {
 
