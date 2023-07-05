@@ -4,4 +4,4 @@
 
 ## Sobre o projetos
 
-ista de exercícios realizados nas aulas de lógica de programação em Java do curso de Programador Back-End no SENAI Firjan.
+Lista de exercícios realizados nas aulas de lógica de programação em Java do curso de Programador Back-End no SENAI Firjan.
